@@ -1,5 +1,4 @@
-function greet(name) {
-    return `Hello, ${name}!`;
-}
+const name = [
+    "John Doe", "Jane Smith", "Alice Johnson", "Bob Brown"];
 
-console.log(greet('World'));
+    console.log(names.join('\n'));
